@@ -4,7 +4,7 @@
 /*  01. VARIBALES CSS START
 /*----------------------------------------*/
 :root {
-  --primary: #c9f31d;
+  --primary: #ffffff;
   --secondary: #2c2c2c;
   --black: #000;
   --black-2: #121212;
@@ -38,7 +38,7 @@
   --gray-15: #C0C0C0;
   --gray-16: #939393;
   --pink: #FAEDE9;
-  --pink-2: #FF9776;
+  --pink-2: #646868;
   --pink-3: #F3ECEC;
   --pink-4: #FFFAF0;
   --pink-5: #E0E3CC;
@@ -6392,7 +6392,6 @@ img {
   }
 }
 .hero__text-2 {
-  background-image: url(../imgs/icon/7.png);
   background-repeat: no-repeat;
   background-position: 64% 58%;
   padding-left: 32%;
@@ -7213,7 +7212,7 @@ img {
 }
 .roll__area-3 {
   padding: 31px 10px;
-  background-color: var(--pink-2);
+  background-color: #b0a8a5;
 }
 .roll__area-3 .roll__slide h2 {
   color: var(--black-2);
@@ -7399,7 +7398,7 @@ img {
 .about__area-2 {
   overflow: hidden;
   background-color: var(--black-2);
-  background-image: url(../imgs/shape/2.png);
+  background-image: url(../imgs/nshp.png);
   background-repeat: no-repeat;
   background-position: 0 31%;
 }
@@ -8233,7 +8232,7 @@ img {
           justify-content: center;
 }
 .service__area-2 {
-  background-color: var(--pink);
+  background-color: rgb(217, 217, 217);
 }
 @media only screen and (max-width: 767px) {
   .service__area-2 {
@@ -19933,7 +19932,7 @@ img {
 /*  33. FEATURE CSS START
 /*----------------------------------------*/
 .feature__area-2 {
-  background-color: var(--pink);
+  background-color: rgb(217, 217, 217);
 }
 .feature__top {
   padding-bottom: 65px;
